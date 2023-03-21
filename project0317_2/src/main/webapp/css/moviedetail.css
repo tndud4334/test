@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+
+
+h3{
+	font-size: 32px;
+}
+
+.reserve {
+	font-size: 20px;
+	top:50%;
+	background-color: white;
+	border-color: blue;
+	border-radius: 10px;
+	margin: 20px;
+	padding: 10px 50px;
+}
